@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohanrai09, network engineer by profession, here to explore the world of network automation.
-Currently, learning Python and using existing libraries to try few simple automation scripts.
+Currently learning Python and using existing libraries to try few simple automation scripts.
 
 
 <!---
